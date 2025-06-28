@@ -15,8 +15,8 @@
 
 ## Habilidades !!
 ![Java](https://img.shields.io/badge/java-292d3e.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP]([https://img.shields.io/badge/python-292d3e?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white))
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-292d3e?style=for-the-badge&logo=php&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-292d3e?&style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-292d3e?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-292d3e?style=for-the-badge&logo=html5&logoColor=white)
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-292d3e?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](#)
